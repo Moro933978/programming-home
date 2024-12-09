@@ -1,0 +1,200 @@
+body{
+    size: cover;
+    background-color: #ffffff;
+}
+
+.background-container{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 100%;
+    background-image: url("wallpaperflare.com_wallpaper\ \(1\).jpg");
+    color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.342);
+
+}
+
+.solve{
+    visibility: hidden;
+}
+
+.title-container{
+    font-size: xx-large;
+    font-family: "Anton", sans-serif;
+    text-shadow: 5px 5px hsl(0, 0%, 34%);
+}
+
+.inside-before-programming{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    height: 200px;
+    box-shadow: 10px 5px 4px 4px rgba(0, 0, 0, 0.473);
+    width: 650px;
+    display: block;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.inside-python-prog{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;  
+    display: block;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.342);
+    border-radius: 8px;
+}
+
+.solve-button{
+    display: inline-flex;
+}
+
+.review{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 40px;
+    height: fit-content;
+    width: 800px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.568);
+}  
+
+.jjjj{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+
+}
+
+.sec-reveiw{
+    width: 800px;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;    
+}
+
+
+.b-prog-text{
+    text-align: center;
+    font-size: x-large;
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.python{
+    display: inline-flex;
+    color: hsl(240, 100%, 48%);
+}
+
+.html{
+    display: inline-flex;
+    color: orange;
+}
+
+.css{
+    display: inline-flex;
+    color: hsl(240, 100%, 50%);
+}
+
+.js{
+    display: inline-flex;
+    color: yellow;
+}
+
+.php{
+    display: inline-flex;
+    color: #4747fc;
+}
+
+.bootstrap{
+    display: inline-flex;
+    color: palevioletred;
+}
+
+.Typescript{
+    display: inline-flex;
+    color: blue;
+}
+
+.c-b-button{
+    display: inline-flex;
+    color: blue;
+}
+
+.baisics{
+    color: black;
+    display: inline-flex;
+}
+
+.Repourt-button{
+    text-decoration: none;
+    background-color:  rgba(170, 23, 234, 145);
+    color: rgb(0, 0, 0);
+    border-radius: 3px;
+    font-weight: 900;
+    font-style: normal;
+    box-shadow: 10px 4px 4px 4px rgba(0, 0, 0, 0.274);
+    font-size: 20px;
+    margin: 0px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.repourt-inside{
+    background-color: white;
+    box-shadow: 10px 4px 4px 4px rgba(0, 0, 0, 0.178);
+    padding: 15px;
+    margin: 0;
+    border-radius: 8px;
+}
+
+.front-end{
+    size: cover;
+    padding: 30px;
+    height: auto;
+    width: 43%;
+    margin: 11px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 3px 4px 4px 4px rgba(0, 0, 0, 0.466);
+}
+
+.back-end{
+    size: cover;
+    padding: 29px;
+    box-shadow: 3px 4px 4px 4px rgba(0, 0, 0, 0.466);
+    height: auto;
+    width: 40%;
+    margin: 11px;
+    border-radius: 8px;
+    cursor: pointer;   
+}
+
+.text-title{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.informaition{
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgba(170, 23, 234, 145);
+    padding: 10px;
+    margin: 10px;
+    height: 400px;
+    border-radius: 8px;
+    width: 1000px;
+    box-shadow: 20px 5px 5px 5px rgba(0, 0, 0, 0.342);
+}
